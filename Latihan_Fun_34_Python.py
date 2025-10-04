@@ -45,7 +45,7 @@ print (not y)
 
 # tipe data
 
-t = "Duri Huang"
+t = "Duri Jansen"
 r = 23
 j = 3.14
 k = ["Duri", "Sam", "Fur"]
