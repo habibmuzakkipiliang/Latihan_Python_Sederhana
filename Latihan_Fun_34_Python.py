@@ -2,8 +2,11 @@
 
 print ("Halo Dunia by Python")
 
-# sintaks dasar
+# sintaks dasar Python
 
+print ("Felicia Kurniawati")
+print ("vfeliciwa")
+print ("IBM SkillsBuild")
 print ("M. Wisnu Haris")
 print ("Semangat Belajarnya")
 print ("Alfitra Rizky Ramadhan")
@@ -15,6 +18,20 @@ print ("Halo Filza Gibran")
 print ("Halo Berlin")
 print ("Halo Oslo")
 print ("Halo Kopenhagen")
+
+a = "Halo "
+b = "Internasional "
+hasil = a + b
+print (hasil)
+
+e = "Jensen "
+k = "Huang "
+j = "Ceo "
+b = "dari Nvdia "
+h = "Internasional "
+hasil = e + k + j + b + h
+print (hasil)
+
 print (12.4)
 print (12)
 print (3.14)
@@ -22,7 +39,7 @@ print (34.45)
 print (56.34)
 print (2.12)
 
-# operator
+# operator Python
 
 x = 22
 y = 2
@@ -32,6 +49,7 @@ print (x - y)
 print (x ** y)
 print (x * y)
 print (x / y)
+print (x // y)
 print (x % y)
 
 print (x > y)
@@ -43,11 +61,12 @@ print (x < y or x > y)
 print (not x)
 print (not y)
 
-# tipe data
+# tipe data Python
 
 t = "Duri Jansen"
 r = 23
 j = 3.14
+q = True
 k = ["Duri", "Sam", "Fur"]
 o = {"Fur", "Zan", "Rez"}
 
@@ -128,8 +147,11 @@ match (e):
 for v in range (1,6):
     print ("For", v)
     
+for h in range (0, 10):
+    print ("Dri", h)
+    
 for q in range (6, 10):
-    print ("Yard ", q)
+    print ("Yard", q)
     
 for j in range (11, 15):
     print ("Dart", j)
