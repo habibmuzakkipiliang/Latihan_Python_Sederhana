@@ -167,3 +167,67 @@ k = 0
 while (k < 10):
     print ("K", k)
     k = k + 1
+    
+j = 0 
+while (j < 10):
+    print ("J", j)
+    j = j + 1
+    
+# data array dan objectl
+
+huj = ["Felicia", "Cimi", "Malang", "Jatim"]
+
+print (huj)
+
+ob = {
+    "nama" : "Habib Muzakki",
+    "kelas" : "12 Agama",
+    "tinggi" : "170 cm",
+    "berat" : "60 kg",
+    "darah" : "B",
+}
+
+print ("Nama :", ob ["nama"])
+print ("Kelas :", ob ["kelas"])
+print ("Tinggi :", ob ["tinggi"])
+print ("Berat : ", ob ["berat"])
+print ("Darah :", ob ["darah"])
+
+# function Python
+
+def halo ():
+    print ("Halo Dunia")
+    
+halo ()
+halo ()
+halo ()
+halo ()
+halo ()
+
+
+def yuin ():
+    print ("Halo John")
+    print ("Halo Trans")
+    print ("Halo Frans")
+    print ("Halo Unit 301")
+    
+yuin ()
+
+def tambah (a, b):
+    return a + b
+    
+hasil = tambah (10, 20)
+print (hasil)
+
+
+def kurang (r, t):
+    return r - t
+    
+hasil = kurang (34, 30)
+print (hasil)
+
+def kali (r, k):
+    return r * k
+    
+hasil = kali (10, 10)
+print (hasil)
