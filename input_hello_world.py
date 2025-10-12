@@ -6,4 +6,3 @@ print ("Halo" + nama + kelas + bidang);
 
 # 
 print ("Hello World")
-pd
