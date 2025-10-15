@@ -3,6 +3,7 @@ oj = {
     "akrab" :"Habib",
     "kelas" : "12 Agama",
     "usia" : "18 tahun",
+    "lahir" : "2007",
     "tinggi" : "172 cm",
     "berat" : "60 kg",
     "darah" : "B +",
@@ -19,6 +20,8 @@ print ("Akrab :", oj ["akrab"])
 print ("Kelas :", oj ["kelas"])
 
 print ("Usia :", oj ["usia"])
+
+print ("Tahun lahir :", oj ["lahir"])
 
 print ("Tinggi :", oj ["tinggi"])
 
