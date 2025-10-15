@@ -9,7 +9,7 @@ berat = "60 kg"
 darah = "B +"
 status = "Anak PP"
 ig = "habib_muzakki_piliang"
-tiktok = "habib_muzakki_piliang"
+tiktok = "habib_muzakki_piliang22"
 lomba = "OSN-K Informatika 2025"
 tambah = "SSO, RSCI, IOS Informatika 2025"
 
