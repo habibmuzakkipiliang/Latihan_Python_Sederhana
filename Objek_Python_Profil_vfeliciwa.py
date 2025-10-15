@@ -2,6 +2,7 @@ obj = {
     "nama" : "Felicia Kurniawati",
     "akrab" : "Feli",
     "usia" : "22 tahun",
+    "lahir" : "2003",
     "asal" : "Malang",
     "agama" : "Katolik",
     "bisnis" : "Pemilik Kafe Cimi Time Malang",
@@ -17,6 +18,8 @@ print ("Nama :", obj ["nama"])
 print ("Akrab :", obj ["akrab"])
 
 print ("Usia :", obj ["usia"])
+
+print ("Tahun Lahir :", obj ["lahir"])
 
 print ("Asal :", obj ["asal"])
 
