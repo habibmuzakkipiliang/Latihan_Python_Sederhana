@@ -10,7 +10,7 @@ oj = {
     "status" : "Anak PP",
     "sekolah" : "MAN 2 Kota Serang",
     "ig" : "habib_muzakki_piliang",
-    "tiktok" : "habib_muzakki_piliang",
+    "tiktok" : "habib_muzakki_piliang22",
 }
 
 print ("Nama :", oj ["nama"])
