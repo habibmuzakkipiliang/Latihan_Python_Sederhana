@@ -1,6 +1,7 @@
 nama = "Felicia Kurniawati"
 akrab = "Feli"
 usia = "22 tahun"
+lahir = "2003"
 asal = "Malang"
 agama = "Katolik"
 bisnis = "Pemilik Kafe Cimi Time Malang"
@@ -12,6 +13,7 @@ youtube = "vfeliciwa"
 
 print ("Nama :", nama)
 print ("Akrab :", akrab)
+print ("Tahun lahir :", lahir)
 print ("Usia :", usia)
 print ("Asal : ", asal)
 print ("Agama :", agama)
